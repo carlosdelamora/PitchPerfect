@@ -2,7 +2,7 @@
 Udacity Project
 
 ## What is it?
-Is an application written originally in **swift 2.0**, now it has been updated to **swift 3.0**. You can record your 
+Is an application written originally in **swift 2.2**, now it has been updated to **swift 3.0**. You can record your 
 voice and play it back distorted, it is fun. 
 
 ## Who can use it?
